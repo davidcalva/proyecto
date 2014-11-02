@@ -1,0 +1,12 @@
+.col-list{
+	float: left;
+	padding: 0 5px;
+}
+.head-col-list{
+	height: 80px;
+	background-color: #ff00ff;
+}
+.item-prospecto{
+	border: 1px solid blue;
+	margin-bottom: 2px;
+}
