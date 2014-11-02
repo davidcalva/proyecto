@@ -20,11 +20,6 @@ class CtrlProspectosBoard extends Profile
     }
     public function getIndexProspectosBoard()
     {
-    	//$idEtapa = $params['idEtapa'];
-    	//$prospectos = $this->modelProspectos->getProspectosByEtapas($idEtapa);
-    	#echo "<pre>";
-    	#print_r($prospectos);
-    	#echo "</pre>";
     	$keys = array(
     		'DATA' => $this->printProspectoByEtapa()
     	);
